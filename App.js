@@ -4,6 +4,7 @@ import Card from './components/Card';
 import { Botoes } from './components/Botoes';
 import Pagina1 from './screens/Pagina1';
 import Pagina2 from './screens/Pagina2';
+import Pagina3 from './screens/Pagina3';
 
 
 
@@ -12,7 +13,7 @@ export default function App() {
   return (
     <ScrollView style={{marginTop: 50}}>
 
-      <Pagina2/>
+      <Pagina3/>
 
       
       
